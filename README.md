@@ -11,10 +11,8 @@ Well, fear no more! Introducing **`dropdown_parser`**, a Python CLI package that
 
 ## Installation
 
-PyPi is not currently accepting new registrations, so we are unable to install `dropdown_parser` using pip. However, we can use [`pipx`](https://github.com/pypa/pipx) instead!
-
 ```sh
-pipx install git+https://github.com/StephenODea54/dropdown-parser.git
+pip3 install git+https://github.com/StephenODea54/dropdown-parser.git
 ```
 
 If everything went well, you should see the following:
