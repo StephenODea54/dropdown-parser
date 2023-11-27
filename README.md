@@ -15,15 +15,6 @@ Well, fear no more! Introducing **`dropdown_parser`**, a Python CLI package that
 pip3 install git+https://github.com/StephenODea54/dropdown-parser.git
 ```
 
-If everything went well, you should see the following:
-
-```sh
-These apps are now globally available
-    - dropdown_parser
-
-done! ✨🌟✨
-```
-
 
 <br>
 
